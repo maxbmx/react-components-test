@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import TextAndTitle from "./components/TextAndTitle/TextAndTitle";
 import './App.css';
 
