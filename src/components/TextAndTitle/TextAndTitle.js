@@ -5,7 +5,7 @@ import "./TextAndTitle.css";
 export default class TextAndTitle extends React.Component {
   static propTypes = {
     text: PropTypes.string,
-    title: PropTypes.string.isRequired
+    title: PropTypes.string
   };
 
   static defaultProps = {
